@@ -1,10 +1,10 @@
 
-http://username.github.com/archive.html
-http://username.github.com/atom.xml
-http://username.github.com/categories.html
-http://username.github.com/index.html
-http://username.github.com/pages.html
-http://username.github.com/sitemap.txt
-http://username.github.com/tags.html
+http://signpostio.com/archive.html
+http://signpostio.com/atom.xml
+http://signpostio.com/categories.html
+http://signpostio.com/index.html
+http://signpostio.com/pages.html
+http://signpostio.com/sitemap.txt
+http://signpostio.com/tags.html
 
-http://username.github.com/lessons/2011/12/29/jekyll-introduction
+http://signpostio.com/lessons/2011/12/29/jekyll-introduction
