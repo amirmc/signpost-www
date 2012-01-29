@@ -9,12 +9,12 @@ pygments: true
 # Themes are encouraged to use these universal variables 
 # so be sure to set them if your theme uses them.
 #
-title : Jekyll Bootstrap
+title : Signpost
 author :
-  name : Name Lastname
-  email : blah@email.test
-  github : username
-  twitter : username
+  name : Amir Chaudhry
+  email : amirmc+signpostio@gmail.com
+  github : amirmc
+  twitter : amirmc
   feedburner : feedname
 
 # The production_url is only used when full-domain names are needed
@@ -25,7 +25,7 @@ author :
 # Else if you are pushing to username.github.com, replace with your username.
 # Finally if you are pushing to a GitHub project page, include the project name at the end.
 #
-production_url : http://username.github.com
+production_url : http://signpostio.com
 
 # All Jekyll-Bootstrap specific configurations are namespaced into this hash
 #
@@ -64,11 +64,11 @@ JB :
   # Set 'provider' to false to turn commenting off globally.
   #
   comments :
-    provider : disqus
+    provider : livefyre
     disqus :
       short_name : jekyllbootstrap
     livefyre :
-      site_id : 123
+      site_id : 296723
     intensedebate :
       account : 123abc
     facebook :
@@ -81,7 +81,7 @@ JB :
   analytics :
     provider : google
     google : 
-        tracking_id : 'UA-123-12'
+        tracking_id : 'UA-28743176-1'
     getclicky :
       site_id : 
 
