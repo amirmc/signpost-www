@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Welcome the Signpost holding page!
+title: Welcome to the Signpost holding page!
 ---
 {% include JB/setup %}
 
@@ -21,11 +21,13 @@ Here's a sample "posts list".
 
 ## To-Do
 
-- Style this theme so it looks better (1 + 3)
+- Style this theme so it looks better (1 + 3?)
+- Try and understand how Liquid works
+- Fix random bug that means clicking 'Signpost' doesn't take you 'home'
 - Add some place holder blog content - just to see how it looks
 - Find some nice CC licenced photos - for front page etc
 
-### Previous notice
+#### Previous notice
 
 This theme is still unfinished. If you'd like to be added as a contributor, [please fork](http://github.com/plusjade/jekyll-bootstrap)!
 We need to clean up the themes, make theme usage guides with theme-specific markup examples.
