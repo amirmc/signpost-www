@@ -1,33 +1,15 @@
 ---
 layout: page
-title: Hello World!
+title: Welcome the Signpost holding page!
 ---
 {% include JB/setup %}
 
-Read [Jekyll Quick Start](http://jekyllbootstrap.com/usage/jekyll-quick-start.html)
+Read more about [Signpost][] on the [Personal Container][] pages.
 
-Complete usage and documentation available at: [Jekyll Bootstrap](http://jekyllbootstrap.com)
+[Signpost]: http://signpostio.com
+[Personal Container]: http://perscon.net
 
-## Update Author Attributes
-
-In `_config.yml` remember to specify your own data:
-    
-    title : My Blog =)
-    
-    author :
-      name : Name Lastname
-      email : blah@email.test
-      github : username
-      twitter : username
-
-The theme should reference these variables whenever needed.
-    
-## Sample Posts
-
-This blog contains sample posts which help stage pages and blog data.
-When you don't need the samples anymore just delete the `_posts/core-samples` folder.
-
-    $ rm -rf _posts/core-samples
+## Some random non-signpost-y stuff!
 
 Here's a sample "posts list".
 
@@ -38,6 +20,12 @@ Here's a sample "posts list".
 </ul>
 
 ## To-Do
+
+- Style this theme so it looks better (1 + 3)
+- Add some place holder blog content - just to see how it looks
+- Find some nice CC licenced photos - for front page etc
+
+### Previous notice
 
 This theme is still unfinished. If you'd like to be added as a contributor, [please fork](http://github.com/plusjade/jekyll-bootstrap)!
 We need to clean up the themes, make theme usage guides with theme-specific markup examples.
