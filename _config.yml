@@ -1,6 +1,6 @@
 # This is the default format. 
 # For more see: https://github.com/mojombo/jekyll/wiki/Permalinks
-permalink: pretty 
+permalink: /:categories/:title 
 
 exclude: [".rbenv-version", "README.md", "Rakefile"]
 auto: true
@@ -10,7 +10,7 @@ pygments: true
 # so be sure to set them if your theme uses them.
 #
 title : Signpost
-tagline : Connect all the things!
+tagline: Connect all the things!
 author :
   name : Amir Chaudhry
   email : amirmc+signpostio@gmail.com
@@ -56,9 +56,9 @@ JB :
   # These paths are to the main pages Jekyll-Bootstrap ships with.
   # Some JB helpers refer to these paths; change theme here if needed.
   #
-  archive_path: /archive.html
-  categories_path : /categories.html
-  tags_path : /tags.html
+  archive_path: /archive/
+  categories_path : /categories/
+  tags_path : /tags/
 
   # Settings for comments helper
   # Set 'provider' to the comment provider you want to use.
@@ -66,14 +66,14 @@ JB :
   #
   comments :
     provider : livefyre
-    disqus :
-      short_name : jekyllbootstrap
+    #disqus :
+    #  short_name : jekyllbootstrap
     livefyre :
       site_id : 296723
-    intensedebate :
-      account : 123abc
-    facebook :
-      apikey : 123
+    #intensedebate :
+    #  account : 123abc
+    #facebook :
+    #  apikey : 123
    
   # Settings for analytics helper
   # Set 'provider' to the analytics provider you want to use.
@@ -83,8 +83,8 @@ JB :
     provider : google
     google : 
         tracking_id : 'UA-28743176-1'
-    getclicky :
-      site_id : 
+    #getclicky :
+    #  site_id : 
 
   # Settings for sharing helper. 
   # Sharing is for things like tweet, plusone, like, reddit buttons etc.
