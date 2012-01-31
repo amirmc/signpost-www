@@ -10,6 +10,7 @@ pygments: true
 # so be sure to set them if your theme uses them.
 #
 title : Signpost
+tagline : Connect all the things!
 author :
   name : Amir Chaudhry
   email : amirmc+signpostio@gmail.com
