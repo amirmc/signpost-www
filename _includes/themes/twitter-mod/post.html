@@ -3,8 +3,10 @@
 </div>
 
 <div class="row">
-  <div class="span10">
+  <div class="span8">
     {{ content }}
+    <h4>Published</h4>
+    <div class="date"><span>{{ page.date | date_to_long_string }}</span></div>
     <hr>
     <div class="pagination">
       <ul>
