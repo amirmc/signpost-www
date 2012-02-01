@@ -1,5 +1,5 @@
 ---
-layout: hero3
+layout: fluid
 title: Welcome to the Signpost holding page!
 ---
 {% include JB/setup %}
